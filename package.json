@@ -1,0 +1,24 @@
+{
+  "name": "react-touched",
+  "version": "1.0.0",
+  "description": "Create inputs with pre-computed values, until touched.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautiful-javascript/react-touched.git"
+  },
+  "keywords": [
+    "react",
+    "input",
+    "form"
+  ],
+  "author": "Marcin Grzywaczewski (killavus@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautiful-javascript/react-touched/issues"
+  },
+  "homepage": "https://github.com/beautiful-javascript/react-touched#readme"
+}
